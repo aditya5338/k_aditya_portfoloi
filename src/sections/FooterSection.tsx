@@ -81,20 +81,20 @@ export default function FooterSection() {
             <Github className="w-4 h-4" /> github.com/aditya5338
           </a>
           <a
-            href="https://x.com/adityakumar5338"
+            href="https://x.com/adibuilds5"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-white/40 hover:text-white text-sm font-body transition-colors"
           >
-            <Twitter className="w-4 h-4" /> x.com/adityakumar5338
+            <Twitter className="w-4 h-4" /> x.com/adibuilds5
           </a>
           <a
-            href="https://linkedin.com/in/adityakumar"
+            href="https://www.linkedin.com/in/adityakumar533"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-white/40 hover:text-white text-sm font-body transition-colors"
           >
-            <Linkedin className="w-4 h-4" /> linkedin.com/in/adityakumar
+            <Linkedin className="w-4 h-4" /> linkedin.com/in/adityakumar533
           </a>
         </motion.div>
 
