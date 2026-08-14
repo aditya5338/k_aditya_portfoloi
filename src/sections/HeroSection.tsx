@@ -68,12 +68,8 @@ export default function HeroSection() {
         playsInline
         preload="auto"
         aria-hidden="true"
-      >
-        <source
-          src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260405_074625_a81f018a-956b-43fb-9aee-4d1508e30e6a.mp4"
-          type="video/mp4"
-        />
-      </video>
+        src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260405_074625_a81f018a-956b-43fb-9aee-4d1508e30e6a.mp4"
+      />
 
       {/* Video Overlay */}
       <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-transparent to-black/60" />
@@ -96,7 +92,7 @@ export default function HeroSection() {
           {/* Right */}
           <div className="flex items-center gap-3">
             <a
-              href="https://drive.google.com/file/d/1resume/view"
+              href="https://drive.google.com/drive/folders/1OaBuYuPkQ-RzAc2qfhlpGRR8bhKe3fcLL"
               target="_blank"
               rel="noopener noreferrer"
               className="hidden md:block text-white/80 hover:text-white text-sm font-medium font-body transition-colors"
@@ -164,7 +160,7 @@ export default function HeroSection() {
           <Github className="w-4 h-4 md:w-5 md:h-5" />
         </a>
         <a
-          href="https://x.com/adityakumar5338"
+          href="https://x.com/adibuilds5"
           target="_blank"
           rel="noopener noreferrer"
           className="liquid-glass rounded-full p-3 md:p-4 text-white/60 hover:text-white hover:bg-white/5 transition-all"
@@ -173,7 +169,7 @@ export default function HeroSection() {
           <Twitter className="w-4 h-4 md:w-5 md:h-5" />
         </a>
         <a
-          href="https://linkedin.com/in/adityakumar"
+          href="https://www.linkedin.com/in/adityakumar533"
           target="_blank"
           rel="noopener noreferrer"
           className="liquid-glass rounded-full p-3 md:p-4 text-white/60 hover:text-white hover:bg-white/5 transition-all"

@@ -1,6 +1,6 @@
 import { useRef } from 'react'
 import { motion, useInView } from 'framer-motion'
-import { Github, Linkedin, Twitter } from 'lucide-react'
+import { Github, Linkedin,   } from 'lucide-react'
 
 export default function FooterSection() {
   const ref = useRef<HTMLDivElement>(null)

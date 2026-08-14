@@ -96,7 +96,7 @@ export default function HeroSection() {
           {/* Right */}
           <div className="flex items-center gap-3">
             <a
-              href="https://drive.google.com/file/d/1resume/view"
+              href="https://drive.google.com/drive/folders/1OaBuYuPkQ-RzAc2qfhlpGRR8bhKe3fcL"
               target="_blank"
               rel="noopener noreferrer"
               className="hidden md:block text-white/80 hover:text-white text-sm font-medium font-body transition-colors"
@@ -164,7 +164,7 @@ export default function HeroSection() {
           <Github className="w-4 h-4 md:w-5 md:h-5" />
         </a>
         <a
-          href="https://x.com/adityakumar5338"
+          href="https://x.com/adibuilds5"
           target="_blank"
           rel="noopener noreferrer"
           className="liquid-glass rounded-full p-3 md:p-4 text-white/60 hover:text-white hover:bg-white/5 transition-all"
@@ -173,7 +173,7 @@ export default function HeroSection() {
           <Twitter className="w-4 h-4 md:w-5 md:h-5" />
         </a>
         <a
-          href="https://linkedin.com/in/adityakumar"
+          href="https://www.linkedin.com/in/adityakumar533"
           target="_blank"
           rel="noopener noreferrer"
           className="liquid-glass rounded-full p-3 md:p-4 text-white/60 hover:text-white hover:bg-white/5 transition-all"
